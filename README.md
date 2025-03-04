@@ -2,21 +2,20 @@
 
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
+Hello! I'm Abdallah Maher, and this is a solution to the " Clipboard landing page" challenge from Frontend Mentor. This project is a modern and minimalistic landing page for a clipboard application. It is fully responsive and follows best practices in HTML & CSS.
+
 
 🚀 Features
 
-Responsive and accessible design
+✔️ Fully Responsive Design – Works seamlessly on all devices.
+✔️ Clean & Minimalist UI – Focused on simplicity and usability.
+✔️ Smooth Layout & Styling – Uses CSS Flexbox & Grid for a well-structured layout.
+✔️ Accessible & Well-structured Code – Easy to read and maintain.
 
-Well-structured HTML & CSS
-
-Dynamic score representation
 
 🛠 Technologies Used
 
-HTML
-
-CSS
+HTML / CSS
 
 Open index.html in your browser to view the component.
 
